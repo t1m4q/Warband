@@ -1,6 +1,4 @@
-using UnityEngine;
-
-namespace Scripts.Interfaces
+namespace Features.HealthFeature
 {
     public interface IDamagable
     {
