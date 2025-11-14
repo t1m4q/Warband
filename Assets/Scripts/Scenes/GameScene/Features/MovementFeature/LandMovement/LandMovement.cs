@@ -1,4 +1,4 @@
-using Features.HealthFeature;
+using Features.MovementFeature;
 using UnityEngine;
 
 namespace Features.LandMovement

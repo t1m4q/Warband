@@ -1,11 +1,11 @@
 using System;
 
-namespace Features.HealthFeature
+namespace Scenes.GameScene.Features.HealthFeature
 {
     [Serializable]
     public struct DamageSettings
     {
-        public float damage;
+        public int damage;
         public DamageType damageType;
 
     }

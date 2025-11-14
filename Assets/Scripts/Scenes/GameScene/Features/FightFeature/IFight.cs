@@ -1,4 +1,4 @@
-using Features.Entity;
+using Scenes.GameScene.Features.EntityFeature;
 
 namespace Scenes.GameScene.Features.Fight
 {
